@@ -1,0 +1,47 @@
+{
+	"name": "Denumire proiect",
+	"id":1
+	"images": [
+		{	
+			"id":"1.1"
+			"name":"denumire imagini",
+			"360":"url_to_360_image",
+			"thumbnails":"url_to_thumbnail",
+			"hotspots": [
+				{
+					"x":"coord_x",
+					"y":"coord_y",
+					"z":"coord_z",
+					"url":"pointer_to_the_next_scene"
+				},
+				{
+					"x":"coord_x",
+					"y":"coord_y",
+					"z":"coord_z",
+					"url":"pointer_to_the_next_scene"
+				},
+			]
+		},
+		{
+			"id":"1.2"
+			"name":"denumire imagini",
+			"360":"url_to_360_image",
+			"thumbnails":"url_to_thumbnail",
+			"hotspots": [
+				{
+					"x":"coord_x",
+					"y":"coord_y",
+					"z":"coord_z",
+					"url":"pointer_to_the_next_scene"
+				},
+				{
+					"x":"coord_x",
+					"y":"coord_y",
+					"z":"coord_z",
+					"url":"pointer_to_the_next_scene"
+				},
+			]
+		}
+	],
+	
+}
