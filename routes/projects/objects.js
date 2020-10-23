@@ -10,12 +10,12 @@ class ProjectImage {
   }
   
   class Project {
-    constructor(_name) {
+    constructor(_name,_imageObjects) {
       this.name = _name;
-      this.imagesObjects = []; //array of ProjectImages
+      this.imagesObjects = _imageObjects; //array of ProjectImages
     }
     insertImage = (object) => {
-      this.images.push(object)
+      this.imagesObjects.push(object)
     }
   }
 

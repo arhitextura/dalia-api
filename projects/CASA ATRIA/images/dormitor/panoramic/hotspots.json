@@ -1,0 +1,21 @@
+{
+  "hotspotList": [
+    {
+      "descriere":"Spre camera de zi",  
+      "name":"CAMERA DE ZI",  
+      "toRoom": "../../dormitor/panoramic/",
+      "yaw": 0,
+      "pitch":0,
+      "type":"custom"
+    },
+    {
+        "descriere":"Spre baia matrimoniala",  
+        "name":"BAIE MATRIMONIALA",  
+        "toRoom": "../../dormitor/panoramic/",
+        "yaw": 0,
+        "pitch":0,
+        "type":"custom"
+      }
+    
+  ]
+}
