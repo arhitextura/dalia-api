@@ -2,7 +2,7 @@
   "hotspotList": [
     {
       "descriere":"Spre camera de zi",  
-      "name":"CAMERA DE ZI",  
+      "name":"camera de zi",  
       "toRoom": "../../dormitor/panoramic/",
       "yaw": 0,
       "pitch":0,

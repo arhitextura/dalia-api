@@ -8,7 +8,7 @@ const { getDirectories } = require("../../index_utils");
 
 router.get("/image", (req, res, next) => {
   console.log("Dirname", process.cwd());
-  const fileName = `${process.cwd()}/images/360/CASA_1/living_01.jpg`;
+  const fileName = `${process.cwd()}/projects/CASA ATRIA/images/dormitor/panoramic/360_living_01.jpg`;
   res.sendFile(fileName, (err) => {
     if (err) {
       next(err);
